@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.seca{
+    background-color:#6E8783;
+    font-size: xx-large;
+}
+
+
+
+@media(min-width : 700px) and (max-width : 1199px){
+   .seca{
+           background-color: #E5E5DC;
+           font-size: x-large;
+   }
+}
+
+@media(min-width : 1200px){
+    .seca{
+            background-color:coral;
+            font-size: medium;
+            
+    }
+}
